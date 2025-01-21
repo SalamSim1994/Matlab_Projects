@@ -1,0 +1,1 @@
+This is  a switch that turns On and Off a Lamp 
